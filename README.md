@@ -129,6 +129,7 @@ I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishdalvi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishdalvi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Keep Moving, just like.....
