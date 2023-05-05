@@ -138,7 +138,7 @@ I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 ## Let's Connect :handshake:
 
 <a target="_blank" href="https://linkedin.com/in/anish-dalvi-8675791b4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="anishdalvi01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:anishdalvi01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
 > Well, if its your birthday today then <a target="_blank" href="https://dumbstruck.netlify.app/">Click Here</a>
