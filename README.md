@@ -19,7 +19,7 @@ I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 ## Skill Set :muscle:
 <br>
 
-> Programming
+>**Programming**
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 </table>
  <br>
 
-> Designing
+> **Designing**
 
 <table>
   <tr>
@@ -120,18 +120,30 @@ I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 
 <br>
 
-### 📊 Github Stats
+## 📊 Github Stats
+
+<p>
+   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=anishdalvi&show_icons=true&theme=gruvbox&hide_border=true" />   
+   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishdalvi&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="overall Top Langs " />
+</p>
+
+ <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdalvi&theme=gruvbox&hide_border=true" />
+
+<details>
+  <summary> View More Stats 📈</summary>
+  <div>
+    <samp>
+       <br>
+       <p>
+         <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishdalvi&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by repo" />  
+         <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishdalvi&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by commit" />
+      </p>
+    </samp>
+  </div>
+</details>
 
 
-[![Anish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anishdalvi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishdalvi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### Keep Moving, just like.....
+### :running:Keep Moving, just like.....
 
 ![Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
@@ -148,3 +160,4 @@ I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=anishdalvi.anishdalvi" alt="Visitors">                     
 </p>
+
