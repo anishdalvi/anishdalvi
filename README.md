@@ -123,8 +123,8 @@ I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 ## 📊 Github Stats
 
 <p>
-   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=anishdalvi&show_icons=true&theme=gruvbox&hide_border=true" />   
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishdalvi&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="overall Top Langs " />
+   <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anishdalvi&show_icons=true&theme=gruvbox&hide_border=true" />   
+   <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anishdalvi&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="overall Top Langs " />
 </p>
 
  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdalvi&theme=gruvbox&hide_border=true" />
