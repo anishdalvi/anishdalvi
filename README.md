@@ -1,7 +1,7 @@
 
 ## Hi There, I am <a target="_blank" href="https://responsive-portfolio-2022.netlify.app">Anish Dalvi</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a **Third Year Student** of <a  target="_blank"  href="https://vcet.edu.in">**Vidyavardhini's College of Engineering and Technology** </a> in **Information Technology** stream.
+I'm a **Final Year Student** of <a  target="_blank"  href="https://vcet.edu.in">**Vidyavardhini's College of Engineering and Technology** </a> in **Information Technology** stream.
 
 <p align="left">
   <a href="https://github.com/anishdalvi/anishdalvi">
