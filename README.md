@@ -129,6 +129,10 @@ I'm a **Final Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
 
  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdalvi&theme=gruvbox&hide_border=true" />
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=anishdalvi&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anishdalvi"/></a>
+
 <details>
   <summary> View More Stats 📈</summary>
   <div>
