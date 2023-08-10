@@ -127,10 +127,9 @@ I'm a **Final Year Student** of <a  target="_blank"  href="https://vcet.edu.in">
    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anishdalvi&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="overall Top Langs " />
 </p>
 
- <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdalvi&theme=gruvbox&hide_border=true" />
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdalvi&theme=gruvbox&hide_border=true" />
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=anishdalvi&theme=merko&hide_border=true)](https://git.io/streak-stats)
-
+  
 
 
 <details>
