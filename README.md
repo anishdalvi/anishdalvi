@@ -3,18 +3,13 @@
 
 I'm a **Final Year Student** of <a  target="_blank"  href="https://vcet.edu.in">**Vidyavardhini's College of Engineering and Technology** </a> in **Information Technology** stream.
 
-<p align="left">
-  <a href="https://github.com/anishdalvi/anishdalvi">
-    <img src="https://komarev.com/ghpvc/?username=anishdalvi&label=Profile Views" alt="page views" />
-  </a>  &nbsp &nbsp
-  <a href="https://github.com/anishdalvi?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/anishdalvi?color=green&logo=github&label=Followers">
-  </a> &nbsp &nbsp
-  <a href="https://stackoverflow.com/users/17417451">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17417451?color=orange&label=Reputation&logo=stackoverflow">
-  </a> 
-  
-</p>
+ <!-- Profile View 1 ![Views](https://github-views.deno.dev/api/badge/anishdalvi?style=classic)  -->     
+![](https://img.shields.io/github/followers/anishdalvi?color=green&logo=github&label=Followers)
+![](https://img.shields.io/stackexchange/stackoverflow/r/17417451?color=orange&label=Reputation&logo=stackoverflow)
+![](https://komarev.com/ghpvc/?username=anishdalvi&color=blueviolet) 
+
+
+
 
 
 
