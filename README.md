@@ -1,16 +1,16 @@
 
-## Hi There, I am <a target="_blank" href="https://responsive-portfolio-2022.netlify.app">Anish Dalvi</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi There, I am `Anish Dalvi` <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a **Final Year Student** of <a  target="_blank"  href="https://vcet.edu.in">**Vidyavardhini's College of Engineering and Technology** </a> in **Information Technology** stream.
+Developer at [Dear Digital](https://www.deardigital.com) <br>  
+
+> I completed my BE in **Information Technology** from <a target="_blank" href="https://vcet.edu.in">Vidyavardhini's College of Engineering and Technology</a>.
+
+My Portfolio: [Link](https://anish-portfolio-2023.netlify.app) <br>
 
  <!-- Profile View 1 ![Views](https://github-views.deno.dev/api/badge/anishdalvi?style=classic)  -->     
 ![](https://img.shields.io/github/followers/anishdalvi?color=green&logo=github&label=Followers)
 ![](https://img.shields.io/stackexchange/stackoverflow/r/17417451?color=orange&label=Reputation&logo=stackoverflow)
 ![](https://komarev.com/ghpvc/?username=anishdalvi&color=blueviolet) 
-
-
-
-
 
 
 ## Skill Set :muscle:
@@ -163,7 +163,7 @@ Previous Themes
 <a target="_blank" href="mailto:anishdalvi01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
-> Well, if its your birthday today then <a target="_blank" href="https://dumbstruck.netlify.app/">Click Here</a>
+> Well, if its your birthday today then <a target="_blank" href="https://dumbstruck.netlify.app/">Click Here</a> `Created in 2020 :)`
 
 #### :computer: Happy Coding :raised_hands:
 
