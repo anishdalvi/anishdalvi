@@ -124,12 +124,16 @@ eg. to hide border use &hide_border=true
 <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anishdalvi&show_icons=true&theme=react&hide_border=true">
 -->
 
+<!-- Streak Below -->
+
+<!--
 <p>
    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anishdalvi&show_icons=true&theme=react&hide_border=true">
    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anishdalvi&langs_count=6&theme=react&layout=compact&hide_border=true" alt="overall Top Langs " />
 </p>
 
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishdalvi&theme=react&hide_border=true" />
+ -->
 
 
 <!--
@@ -139,6 +143,8 @@ Previous Themes
   3. tokyonight
 -->
 
+<!-- More Stats -->
+<!--
 <details>
   <summary> View More Stats 📈</summary>
   <div>
@@ -151,7 +157,7 @@ Previous Themes
     </samp>
   </div>
 </details>
-
+-->
 
 ### :running:Keep Moving, just like.....
 
