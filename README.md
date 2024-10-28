@@ -117,7 +117,7 @@ My Portfolio: [Link](https://anish-portfolio-2023.netlify.app) <br>
 
 <br>
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats -->
 
 <!--
 eg. to hide border use &hide_border=true
